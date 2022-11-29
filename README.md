@@ -74,7 +74,7 @@ dt.predict([[5,6]])
 ![204432619-28a99e94-6e42-4196-845b-df0474eefdad](https://user-images.githubusercontent.com/94168395/204472201-9a8d1f92-50f8-4e36-a388-ebc917a03b10.png)
 
 ### prediction
-![Uploading 204432632-e1775300-59c1-4054-8a8f-fccce9f77b8b.png…]()
+![204432632-e1775300-59c1-4054-8a8f-fccce9f77b8b](https://user-images.githubusercontent.com/94168395/204472376-044c8e7c-454d-453f-b5bf-bf06630f5a2f.png)
 
 
 ## Result:
