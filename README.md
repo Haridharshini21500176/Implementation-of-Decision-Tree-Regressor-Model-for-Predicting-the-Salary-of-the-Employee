@@ -55,18 +55,26 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
-![200124715-135f54e6-330e-4497-963d-96600cd67f75](https://user-images.githubusercontent.com/94168395/202196685-c42c315a-7a20-438d-8dd2-66cf1bfbcfe4.png)
+![204432404-16937098-5ce6-4864-b4d6-ed05b835ad91](https://user-images.githubusercontent.com/94168395/204471755-ac5bca67-5c16-431d-847a-ad45a19a5903.png)
 
-![200128882-eb24c6fb-4839-4dfb-854c-56583a1062a8](https://user-images.githubusercontent.com/94168395/202196730-5b2881ae-ec12-4383-b7bb-2b5f416d4ae8.png)
+![204432434-bbf6de13-d48f-4d3b-b704-210825e98c20](https://user-images.githubusercontent.com/94168395/204471797-9d2d407f-eed9-4794-b502-115e71020773.png)
 
-![200128928-80c98713-df73-4e92-9e9f-a69a2f3e4935](https://user-images.githubusercontent.com/94168395/202196774-4bc6bc7a-1fe2-4857-b77e-d376bf6c681d.png)
+![204432461-9a2c3d06-9805-406d-a432-3ea11111aa81](https://user-images.githubusercontent.com/94168395/204471824-dfb08e0d-8b77-4cfb-b482-6b8085bec50a.png)
 
-![200124819-07ec341f-3ca9-45e7-9efe-2558c17e5a3e](https://user-images.githubusercontent.com/94168395/202196807-47e8dcd6-b31d-41af-ab07-9139000ee71f.png)
+![204432492-fb4861fc-07c0-49d1-9135-99d8ae75ff56](https://user-images.githubusercontent.com/94168395/204471884-db64f37d-d402-464e-a205-5d8b14c79447.png)
 
-![200124829-33473f25-31d4-4729-afbd-2866a0765136](https://user-images.githubusercontent.com/94168395/202196847-b06632fc-685f-4e02-a29a-603d499d58eb.png)
+![204432559-b6aec00a-5e72-432a-9993-c71367372fe7](https://user-images.githubusercontent.com/94168395/204471892-194a2f2a-8ba1-4314-a774-f95899929e87.png)
 
-![200124732-d2d0fd47-39fe-4ea9-ac89-2336d75c2a56](https://user-images.githubusercontent.com/94168395/202196895-60d38a3d-cd2a-4f81-a722-03ec46034d38.png)
+![204432577-4204b824-98ac-4be4-b24f-d302be918012](https://user-images.githubusercontent.com/94168395/204472029-617d00e3-de54-4d86-ba26-6d97cbdbd821.png)
 
+### mse:
+![204432597-774447c1-0b45-48e9-870a-4e12b18cb443](https://user-images.githubusercontent.com/94168395/204472152-360f992c-6387-41b3-85fe-13fbe798a90c.png)
+
+### r2:
+![204432619-28a99e94-6e42-4196-845b-df0474eefdad](https://user-images.githubusercontent.com/94168395/204472201-9a8d1f92-50f8-4e36-a388-ebc917a03b10.png)
+
+### prediction
+![Uploading 204432632-e1775300-59c1-4054-8a8f-fccce9f77b8b.png…]()
 
 
 ## Result:
